@@ -1,4 +1,4 @@
-Let's dive deeper into **Rust syntax** within the context of **smart contract development**, particularly focusing on **Solana smart contracts** (also known as **programs** in Solana). Since you are already familiar with Rust, we'll move into more advanced concepts specific to smart contract development.
+Let's dive deeper into **Rust syntax** within the context of **smart contract development**, particularly focusing on **Solana smart contracts** (also known as **programs** in Solana). Since you are already familiar with Rust we'll move into more advanced concepts specific to smart contract development.
 
 ### 1. **Solana Smart Contract Basics (Program)**
 In Solana, a smart contract is referred to as a "program." These programs are written in Rust using the Solana SDK (`solana-program`). A Solana program operates on accounts, and each program must define instructions that the blockchain can invoke.
